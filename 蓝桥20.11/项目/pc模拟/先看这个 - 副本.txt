@@ -1,0 +1,10 @@
+我在PC上存mysql使用的是纯python 模拟的 "假"mapreduce
+
+code 		------- 		python(源码适当修改)
+rawdata.csv 	------- 		源数据
+demo 		------- 		网页
+
+#MySQL:
+#username:root
+#password:toor
+#必须有summary库,空的没关系
